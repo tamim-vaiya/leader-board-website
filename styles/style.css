@@ -1,0 +1,73 @@
+body{
+  background-color: #F3F1FF;
+  position: relative;
+
+}
+.nav-r{
+  width: 40.42px;
+  height: 51px;
+}
+.nav-l{
+  width: 51px;
+  height: 51px;
+}
+.width{
+  max-width: 870px;
+}
+.bg-primary {
+  background-color: #562EFF!important;
+}
+.top-player img{
+  width: 56px;
+  height: 56px;
+}
+.nav-item{
+  padding-left: 15px;
+}
+.box{
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  margin: 30px auto;
+  padding: 30px;
+}
+.coloured-text{
+  color: #562EFF;
+
+}
+.h-line{
+  border: 1px solid #D1D1D1;
+}
+.top-blog img{
+  width: 177px;
+  height: 117px;
+}
+.bottom-margin{
+  margin-bottom: 45px;
+}
+.card{
+  border: none;
+  box-shadow: 0px 5.34229px 13.3557px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+}
+.card-footer{
+  background-color: white;
+  border-top: none;
+}
+.orange-color{
+  color:  #ED6B4F;
+}
+.card-footer img{
+  height: 20.03px;
+  width: 20.03px;
+}
+.checked{
+  color: #FFC014;
+}
+.unchecked{
+  color:  #AEAEAE;
+}
+.badge-primary{
+  background-color: #FFE4E8;
+  color: #FF4A60;
+}
